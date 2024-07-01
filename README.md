@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Precious Kelvin Nwaogu.
 - 👀 I’m interested in Web Design and Development.
-- 🌱 I’m currently learning HTML, CSS, and JS and other Js Framework.
+- 🌱 An intermidiate | HTML, CSS, and JS including Js Framework.
 - 💞️ I’m looking to collaborate on Web Developers
 - 📫 Reach me: whatsapp: +2348051839464, Call me: +2348032684510
 - 😄 Pronouns: Precious Kelvin (he/him) | Passionate about Code, Tech, and Innovation
